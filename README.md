@@ -1,7 +1,6 @@
 
 # Desafio de Programação 02
 
-Repositório dos desafios proposto para o processo seletivo da Academia Capgemini
 
 ## Tecnologias Utilizadas: 
 
